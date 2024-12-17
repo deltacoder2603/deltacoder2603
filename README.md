@@ -1,7 +1,6 @@
 # Srikant Pandey - Frontend Developer 👨‍💻
 
 
----
 
 ## About Me 🤔
 

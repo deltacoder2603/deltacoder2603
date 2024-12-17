@@ -1,6 +1,5 @@
 # Srikant Pandey - Frontend Developer 👨‍💻
 
-📧 [Email](mailto:srisrikantpandey@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/srikant-pandey-b55935209/) | 🐙 [GitHub](https://github.com/deltacoder2603)
 
 ---
 

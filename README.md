@@ -8,18 +8,6 @@ I am an enthusiastic Frontend Developer skilled in building responsive and user-
 
 ---
 
-## Projects 💡
-
-### **Pixelo – A YouTube Clone 📺**
-- **Technologies:** Next.js 15.0.3, Tailwind CSS, Framer Motion, Axios
-- Developed a responsive YouTube clone with dynamic navigation, smooth animations, and integrated the YouTube API via RapidAPI for seamless data fetching.
-
-### **Stellar - The Article Summarizer 📰**
-- **Technologies:** Next.js 15.0.2, Tailwind CSS, ChatGPT-4 API, GSAP, Framer Motion
-- Created an article summarizer that uses the ChatGPT-4 API and article extraction via RapidAPI, with a sleek, responsive UI featuring smooth animations powered by GSAP and Framer Motion.
-
----
-
 ## Skills 💻
 
 - **Programming Languages:** JavaScript, TypeScript, HTML, CSS

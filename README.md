@@ -31,21 +31,4 @@ I am an enthusiastic Frontend Developer skilled in building responsive and user-
 
 ---
 
-## Education 🎓
-
-**Pranveer Singh Institute of Technology**  
-🎓 Bachelor of Technology (B.Tech) - 2023-2027
-
-**St. Joseph's College**  
-🎓 Schooling - 2009-2022
-
----
-
-## Hobbies 🏞️
-
-- Spirituality ✨
-- Traveling 🌍
-
----
-
 Feel free to check out my projects and connect with me for collaboration or to discuss exciting opportunities! 🤝
